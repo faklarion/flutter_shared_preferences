@@ -1,0 +1,1 @@
+ D:\\Pribadi\ Faisal\\Tugas\ Flutter\ Rumah\ Makan\\flutter_shared_preferences\\.dart_tool\\flutter_build\\08bcefc70d0b991ecbc5a5fe39d175f1\\native_assets.yaml: 
